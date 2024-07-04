@@ -11,8 +11,21 @@
 
  - > Use Case diagram
    
-![Use-Case Diagram](https://github.com/Nirmal-Bhuva/Student_att_mgt/assets/91771820/33b95ed2-abc7-4b06-993b-1904fa05af5b)
 
- - > Class diagram 
+   ![Screenshot 2024-07-04 201450](https://github.com/Nirmal-Bhuva/Student_att_mgt/assets/91771820/4201b586-625c-418a-adf3-a05e7bef543e)
 
-![Class Diagram](https://github.com/Nirmal-Bhuva/Student_att_mgt/assets/91771820/4c1ab989-a9e2-4b82-bb27-f7f3d7e897ff)
+
+ - > Class diagram
+   
+   ![Screenshot 2024-07-04 201517](https://github.com/Nirmal-Bhuva/Student_att_mgt/assets/91771820/1460a507-4a0e-4bca-9cd6-485f9950c83d)
+
+
+- > App Screen shots
+
+  - > Login
+![Screenshot 2024-07-04 201616](https://github.com/Nirmal-Bhuva/Student_att_mgt/assets/91771820/5a31c859-61e1-491f-84ac-d00641ce3c6c)
+
+  
+
+   
+
