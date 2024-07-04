@@ -1,5 +1,7 @@
 # attendence
 
+[Student Management System Document.pdf](https://github.com/user-attachments/files/16099425/Student.Management.System.Document.pdf)
+
 A new Flutter project.
 
 ## Getting Started
