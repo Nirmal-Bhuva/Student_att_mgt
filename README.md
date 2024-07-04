@@ -9,7 +9,8 @@
  - > Students can quickly mark their attendance via barcode, view their attendance history regarding their attendance status. 
  - > Students can also check their monthly attendance reports and edit their profiles.
 
- - > Use Case diagram 
+ - > Use Case diagram
+   
 ![Use-Case Diagram](https://github.com/Nirmal-Bhuva/Student_att_mgt/assets/91771820/33b95ed2-abc7-4b06-993b-1904fa05af5b)
 
  - > Class diagram 
