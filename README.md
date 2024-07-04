@@ -31,7 +31,9 @@
     
   ![Screenshot 2024-07-04 201634](https://github.com/Nirmal-Bhuva/Student_att_mgt/assets/91771820/8d8f712c-ad80-4ee6-b4e0-ee9bb9d0fe17)
 
-  - > Admin Page
+  - > Admin Module
+
+    
   ![Screenshot 2024-07-04 201944](https://github.com/Nirmal-Bhuva/Student_att_mgt/assets/91771820/6f7b58d8-6711-4a75-b817-0d2f748cb244)
 
 
@@ -51,7 +53,8 @@
 
 
 
-  - >  Teacher Page
+  - >  Teacher Module
+    
 
 ![Screenshot 2024-07-04 202114](https://github.com/Nirmal-Bhuva/Student_att_mgt/assets/91771820/4f9a3726-5b33-4c99-8ddc-1614b47fbcd4)
 
@@ -79,4 +82,20 @@
 
    
 ![Screenshot 2024-07-04 202252](https://github.com/Nirmal-Bhuva/Student_att_mgt/assets/91771820/94aaf209-99f7-4ad8-b8f5-9015cb8cf14c)
+
+
+- > Student Module
+
+
+![Screenshot 2024-07-04 202307](https://github.com/Nirmal-Bhuva/Student_att_mgt/assets/91771820/9f9d3c44-1954-4c95-9366-6a283efee8e7)
+
+
+![Screenshot 2024-07-04 202321](https://github.com/Nirmal-Bhuva/Student_att_mgt/assets/91771820/9b4ee2ef-7c9b-4c2a-a6b2-351e0bf9a364)
+
+
+![Screenshot 2024-07-04 202335](https://github.com/Nirmal-Bhuva/Student_att_mgt/assets/91771820/0bec30de-129e-4706-991f-70d2cd6b47b2)
+
+
+
+  
 
